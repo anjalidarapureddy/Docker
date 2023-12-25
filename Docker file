@@ -7,3 +7,4 @@ ADD https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.84/bin/apache-tomcat-9.0.84.ta
 COPY ./index.html /usr/share/nginx/html
 EXPOSE 80
 ~            
+
